@@ -1,5 +1,5 @@
-vaulte (0.20210126.0-unstable~ppa1) unstable; urgency=medium
+vaulte (0.20210126.0.478dc2e-unstable~ppa1) unstable; urgency=medium
 
   * Initial release.
 
- -- Gea-Suan Lin <gslin@gslin.org>  Tue, 26 Jan 2021 10:37:27 +0800
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Tue, 26 Jan 2021 10:37:27 +0800
