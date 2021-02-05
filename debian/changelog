@@ -1,3 +1,9 @@
+vaulte (0.20210126.0.478dc2e-unstable~ppa2) unstable; urgency=medium
+
+  * Add the license file in debian/.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Fri, 29 Jan 2021 16:23:37 +0800
+
 vaulte (0.20210126.0.478dc2e-unstable~ppa1) unstable; urgency=medium
 
   * Initial release.
