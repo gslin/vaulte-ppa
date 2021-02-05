@@ -1,3 +1,9 @@
+vaulte (0.20210126.0.478dc2e-unstable~ppa3) unstable; urgency=medium
+
+  * Add libjson-perl dependency.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Fri, 05 Feb 2021 15:51:53 +0800
+
 vaulte (0.20210126.0.478dc2e-unstable~ppa2) unstable; urgency=medium
 
   * Add the license file in debian/.
